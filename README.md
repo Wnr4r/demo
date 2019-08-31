@@ -1,3 +1,3 @@
 $ Demo Project README
 
-this is a regular readme file
+This is a regular readme file
